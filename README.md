@@ -1,2 +1,2 @@
 # Week1_project
-This repo is for testing only - delete later on
+Sending Week 1 Excel Challenge via GitHub because data was not being displayed correcly on Google Drive.
